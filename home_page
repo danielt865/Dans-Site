@@ -1,7 +1,7 @@
 # Dans-Site
 
 # Home Page
-## Hello, my name is Daniel
+<b>Hello, my name is Daniel</b>
 
 I am a student of IT. Coding has not always been my favorite thing to learn, but I believe it is a good tool to know.
 
@@ -10,4 +10,4 @@ Navigate my website using the links below:
 * [Skills](./skills.md)
 * [Code Sample](./code_sample.md)
 * [Hobbies](./hobby.md)
-* [Academy Performance](./marks.md)
+* [School](./school.md)
